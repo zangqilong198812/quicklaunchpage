@@ -1,109 +1,109 @@
 ---
 layout: page
-title: 用户协议
+title: Terms of Use
 include_in_header: true
 ---
 
-# 用户协议
+# Terms of Use
 
-感谢您使用 QuickLaunch 提供的服务。请务必仔细阅读并充分理解以下条款。当您使用 QuickLaunch 提供的服务时，即表示您同意已阅读并接受本协议的所有条款；否则，请不要使用该产品。
+Thank you for using the services provided by OneClick. Please read and fully understand the following terms carefully. When you use the services provided by OneClick, it means that you agree to have read and accepted all the terms of this agreement; otherwise, please do not use the product.
 
-我们可能会适时修改用户协议。如果用户协议条款发生修改，我们会在您登录时或 APP 版本更新时通过推送通知或弹窗的方式向您展示修改后的协议。请注意，只有在您点击弹出窗口中的同意按钮后，我们才会按照更新后的协议收集、使用和存储您的个人信息。
+We may modify the user agreement from time to time. If the terms of the user agreement are modified, we will show you the modified agreement through push notifications or pop-up windows when you log in or when the APP is updated. Please note that only after you click the agree button in the pop-up window, we will collect, use, and store your personal information according to the updated agreement.
 
-如果您是未成年人，请在您的法定监护人的陪同下阅读协议并使用本服务，并特别注意未成年人的使用条款。
+If you are a minor, please read the agreement and use this service under the accompaniment of your legal guardian, and pay special attention to the terms of use for minors.
 
-1.服务内容
+1. Service Content
 
-服务的具体内容由 QuickLaunch 运营商根据实际情况提供，包括但不限于攻略、海拉鲁图鉴等。QuickLaunch 运营商有权对其提供的服务或产品进行升级或调整，并会及时更新页面信息。
+The specific content of the service is provided by the OneClick operator according to the actual situation, including but not limited to strategies, Hyrule compendium, etc. The OneClick operator reserves the right to upgrade or adjust the services or products provided and will update the page information in a timely manner.
 
-您同意 QuickLaunch 可以自行或通过任何第三方广告商向您发送广告、促销或宣传信息（包括商业和非商业信息），其方式和范围可能会发生变化，恕不另行通知。QuickLaunch 可能会为您提供关闭广告信息的选项，但在任何时候，您都不能以用户协议未明确规定或书面授权的方式屏蔽和过滤广告信息。QuickLaunch 依法为广告主履行相关义务，您应自行判断广告信息的真实性，并对自己的判断负责。除特定法律规定外，对于用户因广告交易或广告商提供的内容而遭受的损失或损害，
+You agree that OneClick may send advertisements, promotions, or promotional information (including commercial and non-commercial information) to you on its own or through any third-party advertisers, and the methods and scope of which may change without prior notice. OneClick may provide you with options to turn off advertising information, but at any time, you cannot block and filter advertising information in any way not explicitly specified or authorized in writing by the user agreement. OneClick legally fulfills relevant obligations for advertisers, and you should judge the authenticity of advertising information on your own and be responsible for your judgment. Except for specific legal provisions, OneClick is not responsible for any loss or damage suffered by users due to advertising transactions or content provided by advertisers.
 
-您同意并理解 QuickLaunch 可能需要对产品或提供服务的相关设施进行定期或不定期检修或维护。因上述情况导致服务（包括收费网络服务）在合理时间内中断的，QuickLaunch 不承担任何责任。QuickLaunch 保留出于维护、升级或其他目的而暂停服务任何部分的权利，恕不另行通知。
+You agree and understand that OneClick may need to carry out regular or irregular maintenance or maintenance of the facilities related to the product or service. OneClick is not responsible for any interruption of the service (including paid network services) within a reasonable time due to the aforementioned circumstances. OneClick reserves the right to suspend any part of the service for maintenance, upgrade, or other purposes without prior notice.
 
-2.服务的使用
+2. Use of Services
 
-除本协议明确规定外，不得将应用程序的任何部分和任何内容以任何方式（包括“镜像”）复制、复制、再版、上传、发布、公开展示、编码、翻译、传输或分发给任何其他人未经 Apple 事先明确书面同意，用于出版或分发或用于任何商业企业的计算机、服务器、网站或其他媒体。
+Unless otherwise specified in this agreement, the application's any part and any content may not be copied, reproduced, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, or distributed to any other person in any way (including "mirroring") without Apple's prior express written consent, for publication or distribution or for any commercial enterprise's computer, server, website, or other media.
 
-您对您发布的用户内容负全部责任。我们不保证其他用户发布的任何用户内容的准确性、完整性或质量。您声明并保证您发布的用户内容和您对服务的使用不会：
+You are fully responsible for the user content you post. We do not guarantee the accuracy, completeness, or quality of any user content posted by other users. You declare and guarantee that the user content you post and your use of the service will not:
 
-(1).以任何方式对未成年人造成伤害；
+(1). Cause harm to minors in any way;
 
-(2).被用来有意或无意地违反或以任何方式不遵守地区、国家和国际法；
+(2). Be used to intentionally or unintentionally violate or fail to comply with regional, national, and international laws in any way;
 
-(3).以任何方式违反、违反或侵犯任何第三方的知识产权；
+(3). Violate, infringe, or infringe any third party's intellectual property rights in any way;
 
-(4).恐吓、跟踪、嘲笑、抨击、恐吓、变态或以其他方式骚扰他人；
+(4). Harass, stalk, mock, attack, intimidate, pervert, or otherwise harass others;
 
-(5).使应用程序、网站或服务的运行负担过重、损坏或削弱；
+(5). Overload, damage, or weaken the operation of the application, website, or service;
 
-(6).冒充任何人或实体，或虚假陈述或以其他方式歪曲您与任何人或实体的从属关系；
+(6). Impersonate any person or entity, or falsely represent or otherwise misrepresent your affiliation with any person or entity;
 
-(7).出于任何目的收集或收集其他用户的电子邮件地址或其他个人信息，包括但不限于发送未经请求的电子邮件或消息；
+(7). Collect or gather other users' email addresses or other personal information for any purpose, including but not limited to sending unsolicited emails or messages;
 
-(8).除非另有说明，应用程序中包含的所有材料以及内容安排和选择均受版权、商标和其他知识产权法的保护。QuickLaunch 不授予任何明示或暗示的使用该知识产权的权利。
+(8). Unless otherwise stated, all materials included in the application, as well as the content arrangement and selection, are protected by copyright, trademark, and other intellectual property laws. OneClick does not grant any express or implied rights to use this intellectual property.
 
-在您使用服务过程中，我们可能会向您发送服务公告、管理信息等信息。您可以选择不接收上述某些信息。
+During your use of the service, we may send you service announcements, administrative messages, and other information. You can choose not to receive some of the above information.
 
-3.隐私
+3. Privacy
 
-我们非常重视您的隐私。我们将根据 QuickLaunch 隐私政策收集和存储您的个人信息。使用我们的服务即表示您同意可以根据我们的隐私政策使用您的个人数据。
+We take your privacy very seriously. We will collect and store your personal information in accordance with the OneClick Privacy Policy. By using our services, you agree that we may use your personal data according to our privacy policy.
 
-此外，通过使用该应用程序，您承认并同意互联网传输从来都不是完全私密或安全的。您理解您发送到应用程序的任何消息或信息都可能被他人阅读或拦截，即使有特别通知表明特定传输（例如图片信息）已加密。
+In addition, by using the application, you acknowledge and agree that internet transmissions are never completely private or secure. You understand that any message or information you send to the application may be read or intercepted by others, even if there is a special notice indicating that a specific transmission (such as picture messages) is encrypted.
 
-4.内容责任
+4. Content Responsibility
 
-您承认，通过 QuickLaunch 可访问的所有信息、数据、文本、软件、音乐、声音、照片、图形、视频、消息、标签和/或其他材料，无论是公开发布还是私下传输（“内容”），均由您全权负责此类内容的来源方。QuickLaunch 只为您提供攻略、游戏地图的工具，无法控制您使用服务的方式。因此，不保证内容的正确性、完整性或质量。在任何情况下，QuickLaunch 均不对任何内容负责，但我们有权停止传输任何此类内容并依法采取相应措施，包括但不限于暂停用户使用全部或部分服务、保留相关记录并向有关部门报告。
+You acknowledge that all information, data, text, software, music, sound, photographs, graphics, video, messages, tags, and/or other materials accessible through OneClick, whether publicly posted or privately transmitted ("Content"), are the sole responsibility of the party from which such content originated. OneClick only provides you with tools for strategies and game maps and cannot control the way you use the service. Therefore, it does not guarantee the correctness, completeness, or quality of the content. Under no circumstances is OneClick responsible for any content, but we reserve the right to stop the transmission of any such content and take corresponding measures according to the law, including but not limited to suspending the user from using all or part of the service, retaining relevant records, and reporting to the relevant departments.
 
-5.费用和订阅条款
+5. Fees and Subscription Terms
 
-QuickLaunch 提供一系列订阅选项，以最好地满足您的需求。您可以选择订阅我们的高级版以访问高级服务和内容。我们的费用取决于不同的订阅计划、礼品计划和促销活动，因此我们保留不时更新我们的费用的权利。
+OneClick offers a range of subscription options to best meet your needs. You can choose to subscribe to our premium version to access premium services and content. Our fees depend on different subscription plans, gift plans, and promotions, so we reserve the right to update our fees from time to time.
 
-您承认，如果我们更改费用，这不会影响您现有的订阅，因此，如果您以特定费用注册订阅，则任何费用更改都不会影响任何当前订阅或任何续订。
+You acknowledge that if we change the fees, this will not affect your existing subscription, so if you register for a subscription at a specific fee, any fee changes will not affect any current subscription or any renewal.
 
-请注意，如果您是通过 Apple iTunes 或 QuickLaunch 应用购买订阅的，适用以下条件：
+Please note that if you purchase a subscription through Apple iTunes or the OneClick app, the following conditions apply:
 
-(1)确认订阅：确认购买时将向 iTunes 帐户收取费用
+(1) Subscription confirmation: The fee will be charged to the iTunes account upon purchase confirmation.
 
-(2)管理订阅：用户可以在手机系统设置中的 iTunes & App Store 账户管理中管理或取消订阅。
+(2) Manage subscription: Users can manage or cancel subscriptions in iTunes & App Store account management in the phone system settings.
 
-(3)自动续订：Apple iTunes 帐户将在当前订阅期结束前 24 小时内收取续订费用。要取消续订，请至少在期限结束前 24 小时手动关闭自动续订。在有效订阅期间不允许取消当前订阅。
+(3) Automatic renewal: The Apple iTunes account will be charged for renewal within 24 hours prior to the end of the current subscription period. To cancel the renewal, please manually turn off automatic renewal at least 24 hours before the end of the period. Cancellation of the current subscription is not allowed during the active subscription period.
 
-(4)免费试用：免费试用（如果有）会在到期后自动更新专业版。您可以在试用结束前前往“账户设置”取消续订。如果您在试用期结束前付费订阅高级版，当前试用将自动结束。
+(4) Free trial: The free trial (if any) will automatically update to the premium version after expiration. You can cancel the renewal before the end of the trial by going to "Account Settings". If you pay for a premium subscription before the end of the trial period, the current trial will automatically end.
 
-6.修改和终止我们的服务
+6. Modification and Termination of Our Services
 
-您理解并同意，QuickLaunch 服务是按照现有的技术和条件提供的。平台将尽最大努力为用户提供服务，保证服务的一致性和安全性；但 QuickLaunch 无法预见和防范法律、技术等风险，包括但不限于不可抗力、病毒、木马、黑客攻击、系统不稳定、第三方服务缺陷、政府行为等原因可能导致服务中断、数据损失和其他损失和风险。
+You understand and agree that the OneClick service is provided according to existing technologies and conditions. The platform will make the greatest effort to provide services to users, ensuring the consistency and security of the service; however, OneClick cannot foresee and prevent legal and technical risks, including but not limited to force majeure, viruses, trojans, hacker attacks, system instability, defects in third-party services, government actions, etc., which may cause service interruption, data loss, and other losses and risks.
 
-我们不断地改变和改进我们的服务。我们可能会添加或删除功能或特性，我们可能会暂停或完全停止服务。您可以随时停止使用我们的服务，但我们会很遗憾看到您离开。QuickLaunch 也可能随时停止向您提供服务，或对我们的服务添加或设置新的限制。
+We are constantly changing and improving our services. We may add or remove features or characteristics, and we may suspend or completely stop the service. You can stop using our services at any time, but we will be sorry to see you leave. OneClick may also stop providing services to you at any time or add or set new restrictions on our services.
 
-如果我们有理由相信您违反了本协议或采取了与本协议不一致的行为，我们保留修改、暂时暂停或永久删除您的帐户并终止您访问服务的权利。终止后，您的许可将自动撤销，我们保留删除您的帐户、删除您的个人资料中的所有或任何信息以及丢弃您的任何用户内容的权利。您同意我们对服务的任何修改或中断不承担任何责任。对于从您的个人资料中删除信息或内容，我们不承担任何责任。您承认并接受某些用户内容在您的帐户终止后可能会保留，并且用户内容许可不会被撤销或终止。如果我们终止您的帐户时您有有效的高级订阅，
+If we have reason to believe that you have violated this agreement or acted inconsistently with this agreement, we reserve the right to modify, temporarily suspend, or permanently delete your account and terminate your access to the service. After termination, your license will automatically be revoked, and we reserve the right to delete your account, remove all or any information from your profile, and discard any of your user content. You agree that we are not responsible for any modification or interruption of the service. We are not responsible for the removal of information or content from your profile. You acknowledge and accept that certain user content may be retained after your account is terminated, and the user content license will not be revoked or terminated. If you have an active premium subscription when we terminate your account,
 
-7.免责声明
+7. Disclaimer
 
-QuickLaunch 将尽合理努力提供服务，确保服务的连续性和安全性。但是，QuickLaunch 不提供完整的保证，包括但不限于：
+OneClick will make reasonable efforts to provide services and ensure the continuity and security of the service. However, OneClick does not provide complete guarantees, including but not limited to:
 
-(1).QuickLaunch 对您在软件和服务中存储相关数据的删除或失败不承担任何责任；
+(1). OneClick is not responsible for the deletion or failure of related data stored in the software and services;
 
-(2).用户在使用本应用程序时，应自行承担超出 QuickLaunch 控制范围的风险，包括但不限于：
+(2). Users should bear risks beyond OneClick's control when using the application, including but not limited to:
 
-(3).因无线网络信号不稳定、无线网络带宽小或其他原因导致无法登录 QuickLaunch、数据同步不完整、页面打开速度慢等风险。
+(3). Risks such as inability to log in to OneClick, incomplete data synchronization, slow page opening speed, etc., due to unstable wireless network signals, small wireless network bandwidth, or other reasons.
 
-(4).因不可抗拒因素导致个人信息丢失或泄露等风险；
+(4). Risks such as loss or leakage of personal information due to irresistible factors;
 
-(5).因用户未选择与安装本软件的终端设备相匹配的软件版本而引起的任何问题或损害；
+(5). Any problems or damages caused by the user not choosing software versions matching the terminal devices installed with this software;
 
-(6).因他人传输或共享用户发布的内容而导致的任何风险或责任；
+(6). Any risks or liabilities caused by others transmitting or sharing the content posted by the user;
 
-您理解并同意，QuickLaunch 不承诺本应用程序或本网站的任何内容、服务或功能不会出现错误或中断，或任何缺陷将得到纠正，或者您对本网站的使用将提供特定的服务。该应用程序及其内容按“原样”和“可用”的基础提供。 不提供任何明示或暗示的保证，包括对准确性、非侵权、适销性和特定用途适用性的任何保证。应用程序上提供的所有信息如有更改，恕不另行通知。
+You understand and agree that OneClick does not promise that any content, service, or function of the application or website will be error-free or uninterrupted, or that any defects will be corrected, or that your use of the website will provide specific services. The application and its content are provided on an "as is" and "available" basis. No express or implied warranties are provided, including any warranties of accuracy, non-infringement, merchantability, and fitness for a particular purpose. All information provided on the application is subject to change without notice.
 
-8.责任限制
+8. Limitation of Liability
 
-在法律允许的情况下，QuickLaunch 不对利润、收入或数据损失、财务损失或间接、特殊、后果性、惩戒性或惩罚性损害赔偿负责。在所有情况下，对任何无法合理预见的损失或损害概不负责。在法律允许的范围内， 对于本协议项下的任何索赔，包括任何默示保证，仅限于您支付给我们使用服务的金额（或者，如果我们选择，再次向您提供服务）。并且不超过在对 QuickLaunch 提出初始索赔之日之前六个月内支付的与应用程序的任何服务或功能有关的任何订阅或类似费用的总和。
+To the extent permitted by law, OneClick is not responsible for profit, revenue, or data loss, financial loss, or indirect, special, consequential, punitive, or exemplary damages. In all cases, it is not responsible for any loss or damage that cannot be reasonably foreseen. To the extent permitted by law, for any claim under this agreement, including any implied warranties, the liability is limited to the amount you paid us for using the service (or, at our option, to provide the service to you again). And not exceeding the total of any subscription or similar fees related to any service or function of the application paid within six months prior to the date of the initial claim against OneClick.
 
-9.一般信息
+9. General Information
 
-本协议和 QuickLaunch 隐私政策控制着 QuickLaunch 与您之间的关系。它们不产生任何第三方受益人权利。如果您不遵守本协议，并且我们没有立即采取行动，这并不意味着我们放弃了我们可能拥有的任何权利（例如将来采取行动）。如果事实证明某个特定条款不可强制执行，则不会影响任何其他条款。本协议的成立、生效、履行、解释和争议解决均适用中华人民共和国大陆地区法律，不考虑法律冲突原则。如果您与 QuickLaunch 之间发生任何争议，应首先通过协商解决；协商不成，您同意将争议提交人民法院处理。
+This agreement and the OneClick Privacy Policy govern the relationship between OneClick and you. They do not create any third-party beneficiary rights. If you do not comply with this agreement and we do not take immediate action, this does not mean that we waive any rights we may have (such as taking action in the future). If a particular term is found to be unenforceable, it will not affect any other terms. The formation, effectiveness, performance, interpretation, and dispute resolution of this agreement are governed by the laws of the People's Republic of China, without considering the principles of legal conflict. If any dispute arises between you and OneClick, it should first be resolved through consultation; if consultation fails, you agree to submit the dispute to the people's court for handling.
 
-本协议的标题仅为方便起见，没有任何实际含义。它们不应作为解释本协议含义的依据。
+The headings in this agreement are for convenience only and have no actual meaning. They should not be used as a basis for interpreting the meaning of this agreement.
 
-如果您有任何其他与次要个人信息相关的投诉、建议或事宜，请通过zangqilong@gmail.com与我们联系，我们将在核实您的用户身份后 30 天内审核您的问题并予以答复。QuickLaunch 拥有本协议的最终解释权。
+If you have any other complaints, suggestions, or matters related to minor personal information, please contact us at zangqilong@gmail.com, and we will review your issue and respond within 30 days after verifying your user identity. OneClick has the final interpretation right of this agreement.

@@ -1,422 +1,374 @@
 ---
 layout: page
-title: 隐私政策
+title: Privacy Policy
 include_in_header: true
 ---
 
-# 隐私政策
+# Privacy Policy
 
-更新日期：2023年05月15日
+**Update Date: May 15, 2023**
 
-导言
+**Introduction**
 
-QuickLaunch（以下也称“我们”）深知个人信息对您的重要性，因此我们非常重视保护您的隐私和个人信息，我们亦将本《QuickLaunch 隐私政策》（包含附件一，以下也称“本政策”）中的内容以高度审慎的义务对待和处理。本政策与您所使用的我们的产品与/或服务息息相关，您在下载、安装、启动、浏览、注册、登录、使用、卸载、退出我们的产品与/或服务（以下统称“使用我们的产品与/或服务”或“使用产品与/或服务”）时，我们将按照本政策的约定处理和保护您的个人信息，因此我们希望您能够仔细阅读、充分理解本政策的全文，并在需要时，按照本政策的指引，作出您认为适当的选择。本政策之中涉及的相关技术词汇，我们尽量以通俗易懂的表述向您解释，以便于您理解。
+OneClick (hereinafter also referred to as "we") deeply understands the importance of your personal information to you. Therefore, we place great emphasis on protecting your privacy and personal information. We treat and handle the content of this "OneClick Privacy Policy" (including Appendix 1, hereinafter also referred to as "this Policy") with a high degree of care and responsibility. This Policy is closely related to the products and/or services you use. When you download, install, start, browse, register, log in, use, uninstall, or exit our products and/or services (hereinafter collectively referred to as "use our products and/or services" or "use products and/or services"), we will process and protect your personal information in accordance with the provisions of this Policy. Therefore, we hope that you can carefully read and fully understand the full text of this Policy, and make the appropriate choices according to the guidance of this Policy when necessary. The technical terms involved in this Policy are explained in a simple and understandable manner to facilitate your understanding.
 
-您应当在仔细阅读、充分理解本《QuickLaunch隐私政策》后选择是否同意本政策的内容以及是否同意使用我们的产品与/或服务，如果您不同意本政策的内容，将可能导致我们的产品与/或服务无法正常运行，或者无法达到我们期待的服务效果，或者无法达到您期待的个人信息保护状态，对此，您应立即停止访问/使用我们的产品与/或服务。您使用或继续使用我们提供的产品与/或服务的行为，或者您在使用或继续使用我们提供的产品与/或服务的行为之前没有以任何明示的方式向我们表达异议，都表示您充分理解和同意本《QuickLaunch隐私政策》（包括更新版本）的全部内容。
+You should carefully read and fully understand the "OneClick Privacy Policy" and decide whether to agree to the content of this Policy and whether to use our products and/or services. If you do not agree with the content of this Policy, it may result in our products and/or services not functioning properly, or failing to achieve the service effect we expect, or failing to achieve the level of personal information protection you expect. In this case, you should immediately stop accessing/using our products and/or services. Your use or continued use of the products and/or services we provide, or your failure to express any objection to us in a clear manner before using or continuing to use the products and/or services we provide, indicates that you fully understand and agree to the full content of this "OneClick Privacy Policy" (including updated versions).
 
-QuickLaunch已经以字体加粗或其他合理方式提示您重点阅读本政策中与您的权益（可能）存在重大关系的条款，请您留意重点查阅。您应当在充分阅读、明确理解本政策前述加粗条款并同意本政策全部条款的有效性的前提下使用我们的产品与/或服务，您不会以QuickLaunch未尽到合理提示义务为由而声称本政策中的条款非法或无效。
-本隐私权政策属于本应用服务使用协议不可分割的一部分。本隐私政策将帮助您了解以下内容:
+OneClick has highlighted key clauses in this Policy that may have a significant impact on your rights (possibly) by using bold fonts or other reasonable means, so please pay attention to the key points. You should use our products and/or services only after fully reading and clearly understanding the aforementioned bold clauses in this Policy and agreeing to the validity of all clauses in this Policy. You will not claim that the clauses in this Policy are illegal or invalid on the grounds that OneClick has not fulfilled its reasonable notice obligations.
 
-1.适用范围
+This privacy policy is an integral part of the service agreement for using this application. This privacy policy will help you understand the following:
 
-2.我们如何收集和使用您的个人信息
+1. Scope of Application
+2. How We Collect and Use Your Personal Information
+3. How We Use Cookies and Similar Technologies
+4. How We Share, Transfer, and Disclose Your Personal Information
+5. How You Manage Your Information and Account Cancellation
+6. How We Store Your Personal Information
+7. How We Protect Your Personal Information
+8. How Your Personal Information is Transferred Globally
+9. Amendments to This Policy
+10. Jurisdiction of Disputes
+11. Contact Us
 
-3.我们如何使用Cookie和同类技术
-
-4.我们如何共享、转让、公开披露您的个人信息
-
-5.您如何管理自己的信息及账号注销
-
-6.我们如何存储您的个人信息
-
-7.我们如何保护您的个人信息
-
-8.您的个人信息如何在全球范围转移
-
-9.本政策的修订
-
-10.争议管辖
-
-11.联系我们
-
-
-1.适用范围
+**1. Scope of Application**
 
 1.1
 
-(1) 在您注册本应用帐号时，您根据本应用要求提供的个人注册信息（包括但不限于手机号码、姓名、年龄、手机验证码等）；
+(1) When you register an account for this application, you provide personal registration information (including but not limited to phone number, name, age, phone verification code, etc.) as required by this application;
 
-(2) 在您使用本应用网络服务，或访问本应用平台网页时，本应用自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；
+(2) When you use the network services of this application or access the platform webpage of this application, this application automatically receives and records information on your browser and computer, including but not limited to your IP address, browser type, language used, date and time of access, hardware and software feature information, and web page records you request;
 
-(3) 本应用通过合法途径从商业伙伴处取得的用户个人数据。
+(3) This application obtains user personal data through legal means from business partners.
 
-您了解并同意，以下信息不适用本隐私权政策：
+You understand and agree that the following information does not apply to this privacy policy:
 
-(1) 您在使用本应用平台提供的搜索服务时输入的关键字信息；
+(1) Keyword information you enter when using the search service provided by this application platform;
 
-(2) 本应用收集到的您在本应用发布的有关信息数据，包括但不限于参与活动、成交信息及评价详情；
+(2) Information data collected by this application about the information you publish on this application, including but not limited to participation in activities, transaction information, and evaluation details;
 
-(3) 违反法律规定或违反本应用规则行为及本应用已对您采取的措施。
+(3) Violations of laws or regulations or the rules of this application and the measures taken by this application against you.
 
+**1.2. Information Use**
 
-1.2.信息使用
+(1) This application will not provide, sell, rent, share, or trade your personal information to any unrelated third party, unless prior permission is obtained from you, or the third party and this application (including affiliated companies of this application) provide services to you individually or jointly, and after the service is terminated, it will be prohibited from accessing all the materials that it was previously able to access.
 
-(1)本应用不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和本应用（含本应用关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。
+(2) This application also does not allow any third party to collect, edit, sell, or disseminate your personal information by any means. Any user of this application platform who engages in the above activities will be immediately terminated from the service agreement with this application upon discovery.
 
-(2) 本应用亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何本应用平台用户如从事上述活动，一经发现，本应用有权立即终止与该用户的服务协议。
+(3) For the purpose of serving users, this application may use your personal information to provide you with information of interest, including but not limited to sending you product and service information, or sharing information with partners of this application so that they can send you information about their products and services (the latter requires your prior consent).
 
-(3) 为服务用户的目的，本应用可能通过使用您的个人信息，向您提供您感兴趣的信息，包括但不限于向您发出产品和服务信息，或者与本应用合作伙伴共享信息以便他们向您发送有关其产品和服务的信息（后者需要您的事先同意）。
+(4) Our APP or the third-party plugins (SDKs) used may collect user information (including but not limited to IMEI, IMSI, device MAC address, software list, device serial number, the above permissions are mainly used for the realization of product security assurance functions, service content push, maintenance/improvement of our products and/or services, and data statistics for active or crash issues. If it exceeds this reasonable scope, we will apply for authorization from you again and inform you of the purpose of exceeding the scope. You can choose to refuse, and refusal will not affect other functions).
 
-(4) 我们的APP或所使用的第三方插件（sdk)可能会收集用户信息（包括但不限于IMEI、IMSI、设备MAC地址、软件列表、设备序列号，以上权限主要用于产品安全保障功能的实现、服务内容推送、维护/改进我们的产品与/服务之必需以及进行数据统计活跃或崩溃问题，如超出该合理范围，我们将向您再一次申请授权，并告知超出范围的目的，您可以选择拒绝，拒绝后不影响其他功能）。
+**Service Content Display/Browsing**
 
-## 服务内容展示/浏览
+In the process of displaying and browsing service content through our products and/or services, we will collect some of your information based on your specific operations using our products and/or services, including the following personal information:
 
-我们的产品与/或服务为您提供服务内容的展示、浏览过程中，我们会根据您使用我们产品与/或服务的具体操作收集您的一些信息，包括如下个人信息：
+Device information: including unique device identifiers, login IP address, device MAC address, IMEI, device model, device name, device identification, browser type and settings, language settings, operating system and application version, network connection method, network quality data, mobile network information (including operator name), product version number, location-related information of the device (including location information you authorize us to obtain). Our APP will not actively collect any of your information without your consent, including but not limited to IMEI, IMSI, device MAC address, software list, device serial number, Android ID. With your consent, our APP or the third-party SDK plugins used may collect user information (including but not limited to IMEI, IMSI, device MAC address, software list, device serial number, Android ID, mainly used for
+【Umeng+】Statistical analysis service collects unique device identifiers (IMEI/Mac/android ID/IDFA/OPENUDID/GUID, SIM card IMSI information) to provide statistical analysis services, and calibrates report data accuracy through geolocation, providing basic anti-cheating capabilities;
 
-设备信息：包括唯一设备识别码、登录IP地址、设备Mac地址、IMEI、设备型号、设备名称、设备标识、浏览器类型和设置、语言设置、操作系统和应用程序版本、接入网络的方式、网络质量数据、移动网络信息（包括运营商名称）、产品版本号、设备所在位置相关信息（包括您授权我们获取的地理位置信息）。APP在您未经同意的情况下，我们不会主动收集您的任何信息，包括但不限于IMEI、IMSI、设备MAC地址、软件列表、设备序列号、Android ID，在征得您同意的情况下，我们的APP或所使用的第三方SDK插件可能会收集用户信息（包括但不限于IMEI、IMSI、设备MAC地址、软件列表、设备序列号、Android ID，主要用于
-【友盟+】统计分析服务收集唯一设备识别码（IMEI/Mac/android ID/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息）以提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力；
+**1.3. Information Disclosure**
 
+Under the following circumstances, this application will disclose your personal information in whole or in part based on your personal will or legal provisions:
 
-1.3.信息披露
+(1) Disclosure with your prior consent;
 
-在如下情况下，本应用将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：
+(2) Sharing your personal information with third parties is necessary to provide the products and services you request;
 
-(1) 经您事先同意，向第三方披露；
+(3) Disclosure to third parties or administrative or judicial institutions in accordance with relevant legal provisions or the requirements of administrative or judicial institutions;
 
-(2)为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
+(4) Disclosure to third parties if you violate Chinese laws, regulations, or the service agreement or related rules of this application;
 
-(3) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
+(5) Disclosure to the complainant if you are a qualified intellectual property complainant and have filed a complaint, at the request of the complainant, so that both parties can handle possible rights disputes;
 
-(4) 如您出现违反中国有关法律、法规或者本应用服务协议或相关规则的情况，需要向第三方披露；
+(6) In a transaction created on this application platform, if any party to the transaction has fulfilled or partially fulfilled the transaction obligations and requested information disclosure, this application has the right to decide to provide the user with the contact information of the other party to the transaction and other necessary information to facilitate the completion of the transaction or the resolution of disputes.
 
-(5) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；
+**1.4 Third-Party SDK Information Explanation**
 
-(6)在本应用平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的，本应用有权决定向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。
+To ensure the realization of relevant functions of the APP and the safe and stable operation of the application, we may integrate software development kits (SDKs) provided by third parties for relevant purposes. Our product may include all or part of the following SDKs:
 
+(1) Umeng SDK
 
-1.4 第三方SDK信息说明
+Our product integrates the Umeng+ SDK, which requires the collection of your device information such as device MAC address, unique device identifier (IMEI/android ID), IDFA, OPenUDID, GUID, SIM card IMSI, and geolocation to provide statistical analysis, download, activation, installation, and other services, and calibrates report data accuracy through geolocation, providing basic anti-cheating capabilities. Specifically:
 
-为保障APP的相关功能的实现与应用的安全稳定运行，我们可能会接入由第三方提供的软件开发包（SDK）实现相关目的，我们的产品可能包含以下全部或部分SDK：
+1) 【Umeng+】Terminal Statistical Analysis Service (U-App/U-Web)
+【Umeng+】Statistical analysis service helps you understand how your end users use your products (including services, including but not limited to mobile application clients, mobile websites, application platforms, PC websites, sites, and other terminals confirmed by 【Umeng+】to provide services, hereinafter the same), and helps you analyze the performance of your products on different terminal devices. When you integrate the 【Umeng+】statistical analysis tool in your product, your product collects and transmits data to our servers through the 【Umeng+】statistical analysis tool. We collect unique device identifiers (IMEI/Mac/android ID/IDFA/OPENUDID/GUID, SIM card IMSI information) to provide statistical analysis services and calibrate report data accuracy through geolocation, providing basic anti-cheating capabilities.
 
-(1) 友盟SDK
+In addition to the aforementioned personal information, statistical analysis services will collect the following information based on different statistical dimensions: SDK/API/JS code version, browser, internet service provider, platform, timestamp, application identifier, application version, application distribution channel, independent device identifier, device model, sensor parameters, terminal manufacturer, terminal device operating system version, session start/stop time, language location, time zone, and network status (WiFi, etc.), hard disk, CPU, and battery usage.
 
-我们的产品集成友盟+SDK，友盟+SDK需要收集您的设备信息如设备Mac地址、唯一设备识别码（IMEI/android ID）、IDFA、OPenUDID、GUID、SIM卡IMSI、地理位置以提供统计分析、下载、激活、安装等服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力。具体如下：
+**1.5 Personal Information Permissions Explanation**
 
-1）【友盟+】终端统计分析服务（U-App/U-Web）
-【友盟+】统计分析服务帮助您了解您的最终用户如何使用您的产品（含服务，包括但不限于移动应用客户端、移动网站、应用平台、PC网站、站点及【友盟+】确认可提供服务的其他终端等，以下同），并且帮助您分析您的产品在不同终端设备上的表现。当您在产品里集成了【友盟+】统计分析工具之后，您的产品就通过【友盟+】统计分析工具收集和传送数据到我们的服务器。我们收集唯一设备识别码（IMEI/Mac/android ID/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息）以提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力。
+To ensure the normal operation and function improvement of the APP, we may need the following all or part of the device permissions:
 
-除上述个人信息外，统计分析服务将根据统计维度的不同采集如下信息：SDK/API/JS代码版本、浏览器、互联网服务提供商、平台、时间戳、应用标识符、应用程序版本、应用分发渠道、独立设备标识符、设备型号、传感器参数、终端制造厂商、终端设备操作系统版本、会话启动/停止时间、语言所在地、时区和网络状态（WiFi等）、硬盘、CPU和电池使用情况等。
+(1) Read phone status
 
+Obtain device IMEI/Mac and other identifiers to identify user uniqueness. Umeng mobile statistics, Alipay payment, WeChat payment, and other third-party SDKs may require this permission.
 
-1.5 个人信息权限说明
+(2) Read/write external storage
 
-为保障APP的正常运行和功能完善，我们可能需要设备的以下全部或部分权限：
+Cache necessary data generated by the application, such as application information, image cache, etc. Umeng mobile statistics, Alipay payment, WeChat payment, advertising components, fresco image library SDK may require this permission.
 
-(1) 读取手机状态
+(3) Access approximate location/obtain precise location
 
-获取设备IMEI/Mac等标识，用于标识用户唯一性。友盟移动统计，支付宝支付，微信支付等第三方SDK可能需要此权限。
+Based on location information, provide user portraits and location-based advertising services. Umeng mobile statistics, advertising components, and other third-party SDKs may require this permission.
 
-(2) 读取/写入外部存储
+(4) Obtain task information
 
-缓存应用产生的必要数据，如应用信息、图片缓存等。友盟移动统计，支付宝支付，微信支付，广告组件，fresco图片库SDK可能需要此权限。
+Umeng mobile statistics require this permission to track the task stack and obtain detailed crash and exception information.
 
-(3) 访问近似位置/获取精确位置
+(5) Album permission: When you use customer service, issue feedback, and other services or functions in OneClick, you can enable the album permission to upload images or videos from your device. If you do not enable this permission, you will not be able to use the related functions of uploading images or videos, but it will not affect the use of other services.
 
-基于位置信息，提供用户画像，以及基于位置的广告服务。友盟移动统计，广告组件等第三方SDK可能需要此权限。
+(6) Camera permission: When you use customer service, issue feedback, and other services or functions in OneClick, you can enable the camera permission to take photos or videos in real-time and upload them. If you do not enable this permission, you will not be able to use the related functions of taking photos or videos, but it will not affect the use of other services.
 
-(4) 获取任务信息
+(7) Microphone permission: When you use customer service and other services or functions in OneClick, you can enable the microphone permission to click the voice button to record, so that the platform can collect your voice content for necessary processing. If you do not enable this permission, you will not be able to use the related functions of voice input, but it will not affect the use of other services.
 
-友盟移动统计需要此权限，以便跟踪任务栈，获取详细的崩溃和异常信息。
+(8) Network connection: When you use this app, you can enable this permission to use related functions that require network connection, which may generate GPRS traffic. If you do not enable this permission, you will not be able to use the related functions of network connection, but it will not affect the use of other functions.
 
-(5)相册权限: 当您使用QuickLaunch中的客服、问题反馈等服务或功能时，您可以通过开通相册权限以便上传设备中的图片或视频。若您不开启此权限，您将无法使用图片或视频上传相关的功能，但不影响您使用其他服务。
+(9) Obtain network information status: When you use OneClick, you can enable this permission to use related functions that require network connection, which can determine whether the current network connection is effective. If you do not enable this permission, the program will not be able to distinguish your network status, and you will not be able to use the related functions of network connection, but it will not affect the use of other functions.
 
-(6)相机权限: 当您使用QuickLaunch的客服、问题反馈等服务或功能时，您可以通过开通相机权限以便进行实时拍摄并上传图片或视频。若您不开启此权限，您将无法使用图片或视频拍摄相关的功能，但不影响您使用其他服务。
+(10) Allow the program to read or write system settings: When you use network functions and message push in OneClick, you can enable this permission to set the network environment and push permissions. If you do not enable this permission, you will not be able to use the related functions, but it will not affect the use of other functions.
 
-(7)麦克风权限:当您使用QuickLaunch中的客服等服务于功能时，您可以开启麦克风权限点击语音按钮进行录音，以便平台收集您的语音内容并进行必要的处理。若您不开启此权限，您将无法使用语音输入相关的功能，但不影响您使用其他服务。
+(11) Allow the program to obtain the current WIFI connection status and WLAN hotspot information: When you use the WIFI connection function, you can enable this permission to set the network environment. If you do not enable this permission, you will not be able to use the function, but it will not affect the use of other functions.
 
-(8)网络连接：当您使用本app时，您可以开通此权限以便使用相关需要网络连接的功能，由此可能会产生GPRS流量，若您不开启此权限，您将无法使用与网络连接相关的功能，但不影响您使用其他功能。
+**1.6 Information Storage and Exchange**
 
-(9)获取网络信息状态：当您使用QuickLaunch时，您可以开通此权限以便使用相关需要网络连接的功能，由此判断当前的网络连接是否有效，若您不开启此权限，程序将无法辨别您的网络状态，您将无法使用与网络连接相关的功能，但不影响您使用其他功能。
+The information and data about you collected by this application will be stored on the servers of this application and/or its affiliated companies, and may be transmitted to the country, region, or location where this application collects information and data, and accessed, stored, and displayed abroad.
 
-(10)允许程序读取或写入系统设置：当您使用QuickLaunch中的网络功能、消息推送时，您可以通过开启此权限以便设置网络环境和推送权限，若您不开启此权限，您将无法使用该权限相关的功能，但不影响您使用其他功能。
+**1.7 Use of Cookies**
 
-(11)允许程序获取当前WIFI接入的状态以及WLAN热点的信息：当您使用连接WIFI功能时，您可以通过开启此权限以便设置网络环境，若您不开启此权限，您将无法使用该功能，但不影响您使用其他功能。
+(1) If you do not refuse to accept cookies, this application will set or retrieve cookies on your computer so that you can log in or use the platform services or functions that rely on cookies.
 
+(2) You have the right to choose to accept or refuse cookies. You can refuse to accept cookies by modifying your browser settings. However, if you choose to refuse to accept cookies, you may not be able to log in or use the network services or functions of this application that rely on cookies.
 
-1.6 信息存储和交换
+(3) The information obtained through the cookies set by this application will apply to this policy.
 
-本应用收集的有关您的信息和资料将保存在本应用及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或本应用收集信息和资料所在地的境外并在境外被访问、存储和展示。
+**2. How We Collect and Use Your Personal Information**
 
+**2.1 Types and Purposes of Information Collection**
 
-1.7 Cookie的使用
+We collect and use your personal information for the following purposes as described in this Policy:
 
-(1) 在您未拒绝接受cookies的情况下，本应用会在您的计算机上设定或取用cookies ，以便您能登录或使用依赖于cookies的本应用平台服务或功能。
+**2.1.1 To provide you with OneClick corresponding functions, we need to collect information including:**
 
-(2) 您有权选择接受或拒绝接受cookies。您可以通过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies，则您可能无法登录或使用依赖于cookies的本应用网络服务或功能。
+Account information:
 
-(3) 通过本应用所设cookies所取得的有关信息，将适用本政策。
+Help you become our user. The registration information you fill in, including your phone number, is used for registration, login, and use of the OneClick account to use OneClick products and services, as well as for customer service and after-sales support, and to ensure your account security. Personal profile and service project information:
 
+During the registration and login process for some single services, if you provide additional information (such as region, nickname, gender, date of birth, avatar, interests, etc.), it will help us provide you with a better service experience. However, if you do not provide this information, it will not affect your use of OneClick's basic functions. At the same time, in accordance with the requirements of relevant laws and regulations or specific functions and services, you may need to provide other information (such as name, ID card, and other identification information) before using specific functions and services. If you do not provide this information, we will not be able to provide you with related functions and services.
 
-2.我们如何收集和使用您的个人信息
+**2.1.2 To provide you with services that better meet your needs, you will provide information and associate it, including these functions and information:**
 
-2.1收集信息类型及用途
+Product reservation/purchase:
 
-我们会出于本政策所述的以下目的，收集和使用您的个人信息:
+You need to provide contact information (such as name, gender, phone number, etc.) to OneClick.
 
-2.1.1为向您提供QuickLaunch相应功能，我们需收集的信息包括:
+Information release:
 
-账户信息:
+When you actively evaluate or publish other content (such as comments, etc.) on OneClick, we will collect and publish information after your authorization, showing your nickname, avatar, and published content, etc. You can authorize access to your camera, photos, and microphone by actively uploading pictures to publish content. When you need to turn off this function, most mobile devices support your demand. For specific methods, please refer to or contact the service provider or manufacturer of your mobile device.
 
-帮助您成为我们的用户，您填写的注册信息，包括您的手机号码，以用于注册、登录QuickLaunch账户使用QuickLaunch产品和服务，及我们的客服和售后为您提供咨询服务，并保障您的账户安全。个人资料和服务项目信息:
+Payment:
 
-在部分单项服务注册及登录过程中，如果您提供其他额外信息(您账号所提供的地区、昵称、性别、出生年月日、头像、兴趣爱好)，将有助于我们给您提供更优的服务体验，但如果您不提供这些信息，并不会影响您使用QuickLaunch的基本功能。同时，依照相关法律法规的要求或者特定功能及服务需要，您在使用特定功能及服务前，可能需要您提供其他信息(姓名、身份证及其他身份证明信息)。如果您不提供上述信息，将会导致我们无法向您提供相关的功能及服务。
+When you pay on OneClick, you can choose payment services provided by third-party payment institutions cooperating with OneClick (such as WeChat Pay, Alipay, etc.). The payment function itself does not collect your personal information, but we need to share your OneClick order information and reconciliation information with these payment institutions to confirm your payment instructions and complete the payment.
 
-2.1.2为向您提供更契合您需求的服务，您会向我们提供信息并将这些信息进行关联，这些功能和信息包括:
+Customer service:
 
-产品预约/购买:
+When you contact our customer service, our system may record the communication records between you and the customer service, and use your account information to verify your identity. When you need customer service related to your order, we may query your relevant order information to provide you with appropriate assistance and processing. You may also need to provide other information besides the aforementioned information to complete the modification.
 
-您需要向QuickLaunch提供联系人信息(姓名、性别、手机号码等)
+Purchasing on behalf:
 
-信息发布:
+Purchasing OneClick services on behalf: You can purchase various products/services on OneClick for others and provide relevant information about the actual service recipient. You agree and ensure that you have obtained the authorization of the relevant person in advance.
 
-您在QuickLaunch上主动对产品/服务进行评价或发布其他内容(如发表评论等信息)时，我们将收集并经您授权后发布信息，展示您的昵称、头像和发布内容等。您可以通过主动上传图片的方式授权访问您的相机、照片和麦克风，以便于您通过拍照、拍视频、上传照片的方式发布内容。当您需要关闭该功能时，大多数移动设备都会支持您的这项需求，具体方法请参考或联系您的移动设备的服务商或产商。
+Bill management:
 
-支付:
+To display your account order information, we will collect order information generated during your use of our services for display and management of your orders. In the orders generated by OneClick, there may be your identity information, contact information, address information, payment information, which are sensitive information. Please be cautious about displaying or providing them to others. When OneClick needs to provide order information externally, it will obtain your authorization and take reasonable commercial precautions to de-identify your information to maximize the protection of your personal information while ensuring the availability of the information.
 
-您在QuickLaunch旗下支付时，您可以选择QuickLaunch合作的第三方支付机构(如微信支付、 支付宝等支付通道)所提供的支付服务。支付功能本身并不收集您的个人信息，但我们需要将您的QuickLaunch订单信息及对账信息与这些支付机构共享以确认您的支付指令并完成支付。
+**2.1.3 To provide you with services that better meet your needs, we will collect and associate information about your use of products, services, and usage methods, including:**
 
-客服服务:
+Device information:
 
-当您与我们的客服取得联系时，我们的系统可能会记录您与客服之间的通讯记录，以及使用您的账号信息以便核验身份;当您需要我们提供与您订单相关的客户服务时，我们可能会查询您的相关订单信息以便给予您适当的帮助和处理，您可能还需要提供上述信息外的其他信息以便完成修改。
+We will receive and record the device information you use (device MAC address, device model, operating system version, device settings, unique device identifier, hardware and software feature information) and location-related information of the device (IP address, GPS/Beidou location information, and Wi-Fi access points, Bluetooth, and base stations that canprovide relevant information) based on the specific permissions you grant during software installation and use.
 
-代为购买:
+Log information:
 
-代为购买QuickLaunch服务:您可以通过QuickLaunch为其他人购买各类产品/服务，并提供该实际服务接收人的有关信息，您同意并确保此前请您已取得相关人的授权。
+When you use our services, we may collect detailed usage of our services as network logs. For example, your login account, search query content, IP address, browser type, telecom operator, network environment, language used, access date and time, and your web browsing records, Push open records, duration, refresh records, release records, follow, subscribe, collect, and share.
 
-账单管理:
+Third-party account information:
 
-为展示您账号的订单信息，我们会收集您在使用我们服务过程中产生的订单信息用于向您展示及便于您对订单进行管理。您在QuickLaunch生成的订单中，将可能包含您的身份信息、联络信息、地址信息、支付信息，这些都属于敏感信息，请您谨慎向他人展示或对外提供，如QuickLaunch需对外提供订单信息时，将取得您的授权，并尽到合理商业注意义务对您的信息进行去标识化处理以在最大化保护您的个人信息同时实现信息可用性。
+We will obtain your relevant information from OneClick's affiliated companies and partners in accordance with laws and regulations and the agreements with third parties after obtaining your authorization reasonably, and use your information after confirming the legality of the information source. If you log in using a third-party account, we will obtain the account information you share from the third party (such as avatar, nickname) after you agree to this privacy policy and bind your third-party account with the OneClick account when you use related functions.
 
-2.1.3向您提供更契合您需求的服务，我们会收集关于您使用产品、服务以及使用方式的信息并将这些信息进行关联，这些信息包括:
+**2.1.4 For your security**
 
-设备信息:
+To prevent, detect, and investigate fraud, infringement, security threats, illegal activities, or violations of agreements, policies, or rules with us or our affiliated companies, we may collect or integrate your user information, service usage information, device information, log information, and information obtained from our affiliated companies and partners with your authorization or in accordance with laws.
 
-我们会根据您在软件安装及使用中授予的具体权限，接收并记录您所使用的设备相关信息(设备MAC地址、 设备型号、操作系统版本、设备设置、唯一设备标识符软硬件特征信息)、设备所在位置相关信息(IP地址、 GPS/北斗位置信息以及能够提供相关信息的Wi-Fi接入点、蓝牙和基站等传感器信息)
+**2.1.5 Exceptions to obtaining authorization consent**
 
-日志信息:
+According to relevant laws and regulations, the following circumstances do not require obtaining your authorization consent for collecting your information:
 
-当您使用我们的服务时，我们可能会收集您对我们服务的详细使用情况，作为有关网络日志保存。例如您的登录账号、搜索查询内容、IP地址、浏览器的类型、电信运营商、网络环境、使用的语言、访问日期和时间及您访问的网页浏览记录、Push打开记录、停留时长、刷新记录、发布记录、关注、订阅、收藏及分享。
+1. Related to national security and national defense security;
+2. Related to public safety, public health, and major public interests;
+3. Related to criminal investigation, prosecution, trial, and execution of judgments;
+4. For the protection of the life, property, and other major legitimate rights and interests of information subjects or other individuals, but it is difficult to obtain the consent of the person;
+5. Information that the information subject has disclosed to the public on their own;
+6. Collecting information from legally publicly disclosed information, such as legitimate news reports and government information disclosure;
+7. Necessary for signing contracts at your request;
+8. Necessary for maintaining the security and stability of OneClick services, such as discovering and handling product or service failures;
+9. Necessary for legitimate news reporting;
+10. Necessary for academic research institutions to conduct statistical or academic research based on public interests, and de-identify the information contained in the results when providing the results of academic research or description;
+11. Other circumstances stipulated by laws and regulations.
 
-第三方账号信息:
+**2.2 Information Use**
 
-我们会依据法律法规的要求以及与第三方的约定，以合理方式经您授权后从QuickLaunch的关联公司、合作伙伴获得您的有关信息，并对其信息来源的合法性进行确认后使用您的这些信息。如您在授权使用第三方账号登录时，我们会从第三方获取您共享的账号信息(如头像、昵称)，并在您同意本隐私政策后、在您使用相关功能时，将您的第三方账号与QuickLaunch账号进行绑定。
+The collection of your information is for the purpose of providing services and improving service quality. For this purpose, your information will be used for the following purposes. If we need to use the collected relevant information for new purposes, scopes, or actual transmission methods that are inconsistent with the agreement, we will notify you through an in-app pop-up and obtain your explicit consent:
 
-2.1.4为您提供安全保障
+**2.2.1 Service optimization**
 
-为预防、发现、调查欺诈、侵权、危害安全、非法或违反与我们或与我们关联公司的协议、政策或规则的行为，我们可能收集或整合您的用户信息、服务使用信息、设备信息、日志信息以及我们关联公司、合作伙伴取得您授权或依据法律共享的信息。
+To provide you with the OneClick products or services you use and maintain, improve, and optimize these services and service experiences;
 
-2.1.5征得授权同意的例外
+**2.2.2 Account security**
 
-根据相关法律法规规定，以下情形中收集您的信息无需征得您的授权同意:
+To prevent, detect, and investigate fraud, infringement, security threats, illegal activities, or violations of agreements, policies, or rules with us or our affiliated companies, protect you, other users, or the public, and the legitimate rights and interests of our affiliated companies, we may use or integrate your user information, service usage information, device information, log information, and information obtained from our affiliated companies and partners with your authorization or in accordance with laws to comprehensively judge your account and transaction risks, verify your identity, detect and prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures;
 
-1.与国家安全、国防安全有关的;
+**2.2.3 Access to third-party SDKs (plugin details as explained in section 1.4 above)**
 
-2.与公共安全、公共卫生、重大公共利益有关的;
+To ensure the realization of relevant functions of OneClick and the safe and stable operation of the application, we may integrate software development kits (SDKs) provided by third parties for relevant purposes. We will strictly monitor the software tool development kits (SDKs) obtained from partners to protect data security. Please note that third-party SDKs may change the types of data processing due to version upgrades, policy adjustments, etc. Please refer to the official explanation of the SDK for details.
 
-3.与犯罪侦查、起诉、审判和判决执行等有关的;
+**2.2.4 Other purposes with your consent.**
 
-4.出于维护信息主体或其他个人的生命、财产等重大合法权益但又很难得到您本人同意的;
+**2.2.5 OneClick Permissions Use and Use Situation Explanation**
 
-5.所收集的信息是您自行向社会公众公开的;
+To ensure the realization and security of OneClick, we may apply for or use relevant operating system permissions; to ensure your right to know, we list the operating system permissions that the product may apply for and use through the following list, and you can manage the relevant permissions based on actual needs;
 
-6.从合法公开披露的信息中收集信息的，如合法的新闻报道、政府信息公开等渠道;
+Due to product upgrades, the types and purposes of applying for and using permissions may change. We will adjust the list in a timely manner to ensure that you are informed of the application and use of permissions. Please note that we may also use third-party SDKs for business and product security needs, and these third parties may also apply for or use relevant operating system permissions (device identification information);
 
-7.根据您的要求签订合同所必需的;
+During the use of the product, you may use H5 pages or mini-programs developed by third parties, and these third-party plugins or mini-programs may also apply for or use relevant operating system permissions due to business functions.
 
-8.用于维护QuickLaunch服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障;
+**3. How We Use Cookies and Similar Technologies**
 
-9.为合法的新闻报道所必需的;
+To provide you with a more relaxed access experience, when you use OneClick products or services, we may collect and store relevant data about your access to OneClick services through various technologies to identify your identity when you access or re-access OneClick services, and analyze the data to provide you with better and more services. This includes using small data files to identify your identity, which helps to understand your usage habits, save you the steps of repeatedly entering account information, or help determine your account security. These data files may be cookies, Flash cookies, or other local storage provided by your browser or associated applications (collectively referred to as "cookies")
 
-10.学术研究机构基于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的信息进行去标识化处理的;
+Please understand that some of our services can only be realized through the use of cookies. If your browser or browser add-on services allow, you can modify your acceptance of cookies or reject OneClick's cookies, but rejecting OneClick's cookies in some cases may prevent you from using some of the functions of OneClick services that rely on cookies.
 
-11.法律法规规定的其他情形。
+Web pages often contain some electronic images, called "single-pixel GIF files" or "web beacons," which help websites count the number of users browsing web pages or access certain cookies.
 
+We will collect your web browsing activity information through web beacons, including the address of the page you visited, the address of the page you previously visited, the time you stayed on the page, your browsing environment, and display settings.
 
-2.2信息使用方式
+**4. How We Share, Transfer, and Disclose Your Personal Information**
 
-收集您的信息是为了向您提供服务及提升服务质量，为了实现这一目的，您的信息将用于下列用途，如我们需将收集到的相关信息用于新的目的、范围或实际传输方式与本协议约定不一致时，我们将以应用内弹窗的方式通知到您并取得您的明示同意:
+**4.1 Sharing**
 
-2.2.1优化服务
+We will not share your personal information with companies, organizations, and individuals outside of OneClick service providers, except in the following cases:
 
-向您提供您使用的QuickLaunch产品或服务，并维护、改进、优化这些服务及服务体验;
+1. Sharing with explicit consent: After obtaining your explicit consent, we will share your personal information with other parties;
+2. Sharing with affiliated companies: To facilitate our provision of services based on affiliated accounts to you, recommend information of interest to you, or protect the legitimate rights and interests of OneClick affiliated companies or other users or the public from infringement, your personal information may be shared with our affiliated companies. We will only share necessary personal information (such as to facilitate your use of the OneClick account to use the products or services of affiliated companies, we will share your necessary account information with affiliated companies). If our affiliated companies change the purpose and processing of personal information, they will again seek your authorization and consent. You agree that affiliated companies and OneClick will share necessary relevant information. OneClick will accurately record and save the sharing and transfer of personal information, including the date, scale, purpose of sharing and transfer, and the basic situation of data recipients.
+3. Sharing with authorized partners: Only for the purposes stated in this privacy policy, some of our services will be provided jointly by us and authorized partners. We may share some of your personal information with partners to provide better customer service and user experience. When you purchase products on the website, we must share your personal information with logistics service providers to arrange delivery or arrange partner services. We will only share your personal information for legitimate, necessary, specific, and clear purposes and will only share the personal information necessary to provide the service. Our partners are not allowed to use the shared personal information for any other purposes unrelated to the product or service.
 
-2.2.2保障账号安全
+OneClick services contain links to other websites. Except as required by law, OneClick is not responsible for the privacy protection measures of other websites. We may add commercial partner or co-branded websites at any time when needed, but the information provided to them will only be basic information without privacy, and we will not disclose your identity.
 
-为预防、发现、调查欺诈、侵权、危害安全、非法或违反与我们或与我们关联公司的协议、政策或规则的行为，保护您、其他用户或公众，我们或我们关联公司的合法权益，我们可能使用或整合您的用户信息、服务使用信息、设备信息、日志信息以及我们关联公司、合作伙伴取得您授权或依据法律共享的信息，来综合判断您账号及交易风险、进行身份验证、检测及防范安全事件，并依法采取必要的记录、审计、分析、处置措施;
+2. Sharing under legal circumstances: We may share your personal information externally in accordance with laws and regulations, litigation dispute resolution needs, or the requirements of administrative or judicial authorities.
 
-2.2.3接入第三方SDK（插件详情如上1.4的第三方插件详情说明）
+**4.2 Transfer**
 
-为保障QuickLaunch相关功能的实现与应用安全稳定的运行，我们可能会接入由第三方提供的软件开发包(SDK) 实现相关目的。我们会对合作方获取信息的软件工具开发包(SDK) 进行严格的安全监测，以保护数据安全。请注意，第三方SDK可能因为其版本升级、策略调整等原因导致数据处理类型存在一定变化，请以其公示的官方说明为准。
+We will not transfer your personal information to any company, organization, or individual, except in the following cases:
 
-2.2.3经您许可的其他用途。
+1. Transfer with explicit consent: After obtaining your explicit consent, we will transfer your personal information to other parties;
+2. In the case of a merger, acquisition, or bankruptcy liquidation of OneClick service providers, or other circumstances involving a merger, acquisition, or bankruptcy liquidation, if personal information transfer is involved, we will require the new company or organization holding your personal information to continue to be bound by this policy. Otherwise, we will require the company, organization, or individual to re-seek your authorization and consent.
 
-2.2.4QuickLaunch权限使用及使用情况说明
+**4.3 Public Disclosure**
 
-为保障QuickLaunch能实现与安全稳定运行之目的，我们可能会申请或使用操作系统的相关权限;为保障您的知情权，我们通过下列列表将产品可能申请、使用的相关操作系统权限进行展示，您可以根据实际需要对相关权限进行管理;
+We will only publicly disclose your personal information under the following circumstances:
 
-根据产品的升级，申请、使用权限的类型与目的可能会有变动，我们将及时根据这些变动对列表进行调整，以确保您及时获悉权限的申请与使用情况请您知悉，我们为业务与产品的功能与安全需要，我们可能也会使用第三方SDK，这些第三方也可能会申请或使用相关操作系统权限(设备标识信息) ;
+1. Public disclosure with explicit consent: After obtaining your explicit consent, we may publicly disclose your personal information;
+2. If we determine that you have violated laws and regulations or seriously violated the relevant agreement rules of OneClick, or to protect the legitimate rights and interests of OneClick and its affiliated companies, users, or the public from infringement, we may disclose your personal information, including the relevant violations and the measures taken by OneClick against you, in accordance with laws and regulations or the relevant agreement rules of OneClick after obtaining your consent.
 
-在使用产品的过程中，您可能会使用第三方开发的H5页面或小程序，这些第三方开发的插件或小程序也可能因业务功能所必需而申请或使用相关操作系统权限。
+**4.4 Exceptions to obtaining authorization consent for sharing, transferring, and publicly disclosing personal information**
 
-3.我们如何使用Cookie和同类技术
+The following circumstances do not require obtaining your authorization consent for sharing, transferring, and publicly disclosing your information:
 
-为使您获得更轻松的访问体验，您使用QuickLaunch产品或服务时，我们可能会通过采用各种技术收集和存储您访问QuickLaunch服务的相关数据，在您访问或再次访问QuickLaunch服务时，我们能识别您的身份，并通过分析数据为您提供更好更多的服务。包括使用小型数据文件识别您的身份，这么做是为了解您的使用习惯，帮您省去重复输入账号信息的步骤，或者帮助判断您的账号安全。这些数据文件可能是Cookie、Flash Cookie,或您的浏览器或关联应用程序提供的其他本地存储(统称"Cookie")
-请您理解，我们的某些服务只能通过使用Cookie才可得到实现。如果您的浏览器或浏览器附加服务允许，您可以修改对Cookie的接受程度或者拒绝QuickLaunch的Cookie,但拒绝QuickLaunch的Cookie在某些情况下您可能无法使用依赖于cookies的QuickLaunch服务的部分功能。
-网页上常会包含一些电子图像，称为“单像素GIF文件"或“网络beacon"，它可以帮助网站计算浏览网页的用户或访问某些cookie。
+1. Related to national security and national defense security;
+2. Related to public safety, public health, and major public interests;
+3. Related to criminal investigation, prosecution, trial, and execution of judgments;
+4. For the protection of the life, property, and other major legitimate rights and interests of information subjects or other individuals, but it is difficult to obtain the consent of the person;
+5. Information that the information subject has disclosed to the public on their own;
+6. Collecting information from legally publicly disclosed information, such as legitimate news reports and government information disclosure;
+7. Necessary for signing contracts at your request;
+8. Necessary for maintaining the security and stability of OneClick services, such as discovering and handling product or service failures;
+9. Necessary for legitimate news reporting;
+10. Necessary for academic research institutions to conduct statistical or academic research based on public interests, and de-identify the information contained in the results when providing the results of academic research or description;
+11. Other circumstances stipulated by laws and regulations.
 
-我们会通过网络beacon收集您浏览网页活动信息，您访问的页面地址、您先前访问的援引页面的位址、您停留在页面的时间、您的浏览环境以及显示设定。
+**5. How You Manage Your Information and Account Cancellation**
 
-4.我们如何共享、转让、公开披露您的个人信息
+In accordance with relevant Chinese laws, regulations, standards, and other practices in countries and regions, we guarantee that you have the following rights to exercise over your personal information:
 
-4.1共享
+**5.1 Account Information:**
 
-我们不会与QuickLaunch服务提供者以外的公司、组织和个人共享您的个人信息，但以下情况除外:
+If you wish to access or edit the personal profile information in your account, change your password, add security information, etc., you can perform such operations in the product you use. You can choose (enter the "Me" menu item, click "User Avatar") to view the information of your current registration and other information provided.
 
-1.在获取明确同意的情况下共享:获得您的明确同意后，我们会与其他方共享您的个人信息:
-与关联公司间共享:为便于我们基于关联账号共同向您提供服务，推荐您可能感兴趣的信息或保护QuickLaunch关联公司或其他用户或公众的人身财产安全免遭侵害，您的个人信息可能会与我们的关联公司共享。我们只会共享必要的个人信息(如为便于您使用QuickLaunch账号使用我们关联公司产品或服务，我们会向关联公司共享您必要的账号信息)，如果我们共享您的个人敏感信息或关联公司改变个人信息的使用及处理目的，将再次征求您的授权同意。您同意关联公司与QuickLaunch共享服务必要的相关信息。QuickLaunch将准确记录和保存个人信息的共享、转让的情况，包括共享、转让的日期、规模、目的，以及数据接收方基本情况。
+**5.2 User Information Change:**
 
-与授权合作伙伴共享:仅为实现本隐私政策中声明的目的，我们的某些服务将由我们和授权合作伙伴共同提供。我们可能会与合作伙伴共享您的某些个人信息，以提供更好的客户服务和用户体验。在您上网采购网站上的产品时，我们必须与物流服务提供商共享您的个人信息才能安排送货，或者安排合作伙伴提供服务。我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供服务所必要的个人信息。我们的合作伙伴无权将共享的个人信息用于与产品或服务无关的其他用途。
+You can change your personal information (including phone number, name, avatar, gender, etc.) on the APP. If you have any questions, you can contact us through OneClick's online service or phone service channels to help you solve the problem.
 
-QuickLaunch服务含有到其他网站的链接。除法律另有规定外，QuickLaunch对其他网站的隐私保护措施不负任何责任。我们可能在任何需要的时候增加商业伙伴或共用品牌的网站，但是提供给他们的将仅是不含隐私的基本信息，我们将不会公开您的身份。
+**5.3 User Information Deletion**
 
-2.在法定情形下的共享:我们可能会根据法律法规规定、诉讼争议解决需要，或按行政、司法机关依法提出的要求，对外共享您的个人信息。
+You can contact us through the contact information (zangqilong@gmail.com) announced on OneClick's official website, provide relevant information, and we will help you delete user information. If we stop operating or stop providing related services, we will stop the activity of continuing to collect your personal information in time, notify you of the stop of operation through a one-by-one delivery or announcement, and delete or anonymize the personal information we hold.
 
+We need some basic personal information to complete each business function (see this privacy policy). In addition: You can withdraw some authorization by unbinding, modifying personal settings, deleting relevant information, etc., or revoke authorization by closing functions.
 
-4.2转让
+After you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawn consent or authorization, nor will we process your corresponding personal information. However, your decision to withdraw consent or authorization will not affect the personal information processing that has been carried out based on your consent or authorization.
 
-我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外:
+**5.5 User Account Cancellation:**
 
-1.在获取明确同意的情况下转让:获得您的明确同意后，我们会向其他方转让您的个人信息。
+If you decide to stop using OneClick, you can cancel your account. Account cancellation can be achieved in "OneClick My Edit Personal Profile Cancel Account". You can also contact us at zangqilong@gmail.com, provide relevant information, and we will help you cancel your account within 24 hours. Before you cancel your account, we will require you to perform necessary identity verification, including personal identity, security status, device information, etc. For the process and content of cancellation, please refer to the guidance on the account cancellation page. You understand and acknowledge that the act of canceling the account is irreversible. After you cancel your account, we will stop providing you with services and delete all information about your account or anonymize the relevant information, except as required by laws and regulations.
 
-2.在QuickLaunch服务提供者发生合并、收购或破产清算情形，或其他涉及合并、收购或破产清算情形时，如涉及到个人信息转让，我们会要求新的持有您个人信息的公司、组织继续受本政策的约束，否则我们将要求该公司、组织和个人重新向您征求授权同意。
+**6. How We Store Your Personal Information**
 
+We will store the collected relevant personal information in the following forms: structured data storage, server placement within the People's Republic of China. At the same time, we will only retain your personal information within the period necessary to achieve the purposes stated in this policy, unless there is a mandatory retention requirement by law. For example, the "E-commerce Law of the People's Republic of China" requires that commodity and service information and transaction information be retained for no less than three years from the date of completion of the transaction; the "Implementation Opinions of the Ministry of Education and Other Six Departments on Regulating Off-campus Online Training" stipulates that user behavior logs must be retained for more than one year. For user behavior logs involved in our services, we will anonymize the processing. Our judgment criteria for the aforementioned retention period include:
 
-4.3公开披露
+1. Completion of transaction purposes related to you, maintenance of corresponding transaction and business records, response to your possible inquiries or complaints;
+2. Ensuring the security and quality of services provided to you;
+3. Whether you agree to a longer retention period;
+4. Whether there are other special agreements for the retention period.
 
-我们仅会在以下情况下，公开披露您的个人信息:
+After your personal information exceeds the retention period, we will delete your personal information in accordance with the requirements of applicable laws or anonymize it (if you are a minor, after your personal information exceeds the retention period, we will process your personal information in accordance with relevant laws and regulations). If it is not possible to delete due to special circumstances.
 
-1.获得您明确同意授权，我们可能会公开披露您的个人信息;2.如果我们确定您出现违反法律法规或严重违反QuickLaunch相关协议规则的情况，或为保护QuickLaunch及其关联公司用户或公众的人身财产安全免遭侵害，我们可能依据法律法规或QuickLaunch相关协议规则征得您同意的情况下披露关于您的个人信息，包括相关违规行为以及QuickLaunch已对您采取的措施。
+**7. How We Protect Your Personal Information**
 
+We will take various preventive measures to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration, or destruction. To ensure the security of your personal information, we have strict information security regulations and processes, and a dedicated information security team within the company strictly enforces the aforementioned measures. OneClick has an advanced data-centric data security management system throughout the data lifecycle, enhancing the security of the entire system from organizational construction, system design, personnel management, product technology, etc.
 
-4.4共享、转让、公开披露个人信息时事先征得授权同意的例外
+We will take reasonable and feasible measures to avoid collecting irrelevant personal information and retain your personal information only within the period necessary to achieve the purposes stated in this policy, unless an extended retention period is required or permitted by law.
 
-以下情形中，分享、转让、披露您的信息无需事先征得您的授权同意:
+After an information security incident occurs, we will inform you in accordance with the requirements of laws and regulations and no later than 30 natural days: the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to prevent and reduce risks independently, and remedial measures for you. We will inform you of the event-related situation through email, letter, phone, push notification, etc. If it is difficult to inform each personal information subject one by one, we will take a reasonable and effective way to issue an announcement. At the same time, we will also report the handling situation of personal information security incidents in accordance with the requirements of regulatory authorities.
 
-1.与国家安全、国防安全有关的;
+Due to technical limitations and possible malicious means, in the internet industry, even with all-out efforts to strengthen security measures, it is impossible to always guarantee 100% information security. We will do our best to ensure the security of the personal information you provide to us. Please understand and acknowledge that the system and communication network you use to access our services may have problems due to factors beyond our control. Therefore, we strongly recommend that you take active measures to protect the security of personal information, including but not limited to using complex passwords, regularly changing passwords, not disclosing your account password, and other personal information to others, etc.
 
-2.与公共安全、公共卫生、重大公共利益有关的;
+**8. How Your Personal Information is Transferred Globally**
 
-3.与犯罪侦查、起诉、审判和判决执行等司法或行政执法有关的;
+In principle, the personal information we collect and generate during the operation within the People's Republic of China will be stored within the People's Republic of China. For personal information generated by OneClick users outside the People's Republic of China during the use of OneClick products and services, you agree to return and store it on servers within the People's Republic of China, otherwise, you will not be able to use the existing OneClick products and services. In such cases, we will ensure that your personal information is protected with a level of security equivalent to that within the People's Republic of China.
 
-4.出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的;
+**9. Protection of Minors**
 
-5.您自行向社会公众公开的信息;
+We attach great importance to the protection of personal information of minors. If you are under the age of eighteen, please read this privacy policy carefully under the guidance of your guardian and obtain the consent of your guardian before using our services and providing your personal information. If your guardian does not agree to this privacy policy, you should immediately stop using OneClick's services and refuse to provide personal information. If you are a minor under the age of fourteen, please notify your guardian to read and accept our "User Privacy Policy" together and seek their consent and guidance before using our services and submitting your personal information. For personal information collected with the guardian's consent, we will only use or disclose the information within the scope permitted by laws, obtaining the guardian's explicit consent or protecting the child user. For personal information provided by minor users without the guardian's consent, we will delete the relevant information upon receiving the guardian's notice.
 
-6.从合法公开披露的信息中收集信息的，如合法的新闻报道、政府信息公开等渠道。根据法律规定，共享、转让经去标识化处理的信息，且确保数据接收方无法复原并重新识别信息主体的，不属于信息的对外共享、转让及公开披露行为，对此类数据的保存及处理将无需另行向您通知并征得您的同意。
+**10. Amendments to This Policy**
 
+OneClick reserves the right to modify this policy terms when necessary and notify you through an in-app pop-up. You can check the modified latest version policy at any time on this platform. If you do not agree with the modified policy, you have the right to terminate our authorization. If you continue to use the corresponding functions after this policy is updated, it is deemed that you have accepted the modified policy.
 
-5.您如何管理自己的信息及账号注销
+For significant changes, we will provide more prominent notices (including but not limited to in-app pop-ups, phone calls, text messages, and other methods to solicit opinions, announcements, and even pop-up prompts).
 
-按照中国相关的法律、法规、标准，以及其他国家、地区的通行做法，我们保障您对自己的个人信息行使以下权利:
+Significant changes referred to in this policy include but are not limited to:
 
+1. Significant changes in our service mode, such as the purpose of processing user information and the way user information is used;
+2. Significant changes in our control, organizational structure, etc., such as business adjustments, bankruptcy and acquisition, etc., causing owner changes;
+3. Significant changes in the main objects of personal information sharing, transfer, or public disclosure;
+4. Significant changes in the responsible department, contact methods, and complaint channels for user information security;
+5. The security impact assessment report indicates a high risk.
 
-5.1账号信息:
+**11. Jurisdiction of Disputes**
 
-如果您希望访问或编辑您的账号中的个人资料信息、更改您的密码、添加安全信息等，您可以在您使用的产品中执行此类操作。您可以选择(进入“我”菜单项， 点击“用户头像”)对您现有的注册及其他已提供的信息进行查看。
+The conclusion, effectiveness, interpretation, amendment, supplement, termination, execution, and dispute resolution of this policy are governed by the laws of the People's Republic of China. If there is no relevant legal provision, reference should be made to commercial practices and/or industry practices.
 
+Any disputes arising from the use of OneClick services and related to OneClick services shall be resolved through consultation between OneClick and you. If consultation fails, either party may file a lawsuit with the court.
 
-5.2用户信息变更:
+**12. Contact Us**
 
-您可以在APP上进行个人信息的变更(包括手机号、 姓名、头像、性别等信息)， 如有任何问题，您可以通过QuickLaunch的在线服务或电话服务渠道联系我们，帮您解决问题。
+When you have personal information-related issues or other complaints, suggestions, etc., you can contact us through the following methods. We will review the content involved as soon as possible and reply to your questions, complaints, and suggestions within 15 working days:
 
-
-5.3用户信息删除
-
-您可以通过QuickLaunch的官网公布的联系方式（zangqilong@gmail.com）联系我们，提供相关信息后，我们会帮您删除用户信息。如我们停止运营或停止提供相关服务，我们将及时停止继续收集您个人信息的活动，将停止运营的通知以逐-一送达或公告的形式通知您，对所持有的个人信息进行删除或匿名化处理。
-
-我们每个业务功能需要一些基 本的个人信息才能得以完成(见本隐私权政策)。除此之外:您可以通过解除绑定、修改个人设置、删除相关信息等方式撤回部分授权，也可以通过关闭功能的方式撤销授权。
-
-当您撤回同意或授权后，我们无法继续为您提供撤回同意或授权所对应的服务，也将不再处理您相应的个人信息。但您撤回同意或授权的决定，不会影响此前基于您的同意或授权而开展的个人信息处理。
-
-5.5用户账号注销:
-
-
-如果您决定停止使用QuickLaunch，则您可以对您的账号进行注销。账号注销可以在"QuickLaunch我的编辑个人资料注销账号”中实现。您也可以通过zangqilong@gmail.com联系我们，提供相关信息后，我们将于24小时内帮您注销账号。在您注销账号前，我们会要求您进行必要的身份验证，包括个人身份、安全状态、设备信息等，有关注销的流程和内容，请参见账号注销页面的指引。您知悉并理解，注销账号的行为是不可逆的行为，在您注销账号后，我们将停止为您提供给服务，并将删除有关您账号的一切信息或对相关信息进行匿名化处理，但法律法规另有规定的除外。
-
-
-6.我们如何存储您的个人信息
-
-我们将以以下形式储存收集到的相关个人信息:结构化数据存储，服务器放置在中华人民共和国境内。同时只会在达成本政策所述目的所需的期限内保留您的个人信息，除非法律有强制的存留要求。例如《中华人民共和国电子商务法》要求商品和服务信息、交易信息保存时间自交易完成之日起不少于三年;《教育 部等六部门关于规范校外线上培训的实施意见》规定，用户行为日志须留存一年以上。就我们服务所涉及的用户行为日志，我们将进行匿名化处理。我们判断前述期限的标准包括:
-
-1完成与您相关的交易目的、维护相应交易及业务记录、应对您可能的查询或投诉;
-
-2保证我们为您提供服务的安全和质量;
-
-3您是否同意更长的留存期间;
-
-4是否存在保留期限的其他特别约定。
-
-在您的个人信息超出保留期间后，我们会根据适用法律的要求删除您的个人信息，或使其匿名化处理(如您为未成年人，在您的个人信息超出保留期间后，我们会按照相关法律法规要求对您的个人信息进行相应处理)。如因特殊情形无法按照相关要求删除。
-
-
-7.我们如何保护您的个人信息
-
-我们会采取各种预防措施来保护您的个人信息，以保障您的个人信息免遭丢失、盗用和误用，以及被擅自取阅、披露、更改或销毁。为确保您个人信息的安全，我们有严格的信息安全规定和流程，并有专门的信息安全团队在公司内部严格执行上述措施。QuickLaunch有行业先进的以数据为核心，围绕数据生命周期进行的数据安全管理体系，从组织建设、制度设计、人员管理、产品技术等方面多维度提升整个系统的安全性。
-
-我们会采取合理可行的措施，尽力避免收集无关的个人信息，并在限于达成本政策所述目的所需的期限内保留您的个人信息,除非需要延长保留期限或在法律的允许期限内。
-
-如发生个人信息安全事件后，我们将按照法律法规的要求并最迟不迟于30个自然日内向您告知:安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。事件相关情况我们将以邮件、信函、电话、推送通知等方式告知您，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，上报个人信息安全事件的处置情况。
-
-由于技术的限制以及可能存在的各种恶意手段，在互联网行业，即便竭尽所能加强安全措施，也不可能始终保证信息百分之百的安全，我们将尽力确保您提供给我们的个人信息的安全性。请您知悉并理解，您接入我们的服务所用的系统和通讯网络，有可能因我们可控范围外的因素而出现问题。因此，我们强烈建议您采取积极措施保护个人信息的安全，包括但不限于使用复杂密码、定期修改密码、不将自己的账号密码等个人信息透露给他人等。
-
-
-8.您的个人信息如何在全球范围转移
-
-原则上，我们在中华人民共和国境内运营中收集和产生的个人信息，存储在中国人民共和国境内。就中华人民共和国境外QuickLaunch用户使用QuickLaunch产品及服务过程中产生的个人信息，您同意回传存储在中国境内的服务器上，否则您无法使用现有QuickLaunch的产品及服务。在此类情况下，我们会确保您的个人信息得到在中华人民共和国境内足够同等的保护。
-
-
-9.未成年人保护
-
-我们重视未成年人的个人信息保护，如您为十八周岁以下的未成年人，请在您的监护人指导下仔细阅读本隐私政策，并在征得您的监护人同意的前提下使用我们的服务及提交您的个人信息。如您的监护人不同意本隐私政策，您应立即停止使用QuickLaunch的服务并拒绝提供个人信息。 如果您是未满十四周岁的未成年人，请您通知您的监护人共同阅读并接受我们的 《用户隐私政策》 并在您使用我们的服务、提交个人信息之前，寻求您的监护人的同意和指导。 对于监护人同意而收集的儿童个人信息，我们仅会在法律法规允许、监护人明确同意或保护儿童用户的范围内使用或披露该信息。对于未经监护人同意而儿童用户提供的个人信息，在接到其监护人的通知后，我们会尽快删除相关信息。
-
-
-10.本政策的修订
-
-QuickLaunch有权在必要时修改本政策条款，并以应用内部弹窗的方式通知到您。您可以随时在本平台查阅修改后的最新版本政策。如您不同意修改后的政策，您有权终止对我们的授权。本政策更新后，如果您继续使用相应我们功能，即视为您已接受修改后的政策。
-
-对于重大变更，我们还会提供更为显著的通知(包括我们会通过应用内弹窗、电话、短信的方式进行意见征集、公告通知甚至向您提供弹窗提示)。
-
-本政策所指的重大变更包括但不限于:
-
-1.我们的服务模式发生重大变化。如处理用户信息的目的、用户信息的使用方式等;
-
-2.我们在控制权、组织架构等方面发生重大变化。如业务调整、破产并购等引起的所有者变更等;
-
-3.用户信息共享、转让或公开披露的主要对象发生变化;
-
-4.我们负责处理用户信息安全的责任部门、联络方式及投诉渠道发生变化时;
-
-5.用户信息安全影响评估报告表明存在高风险时
-
-
-11.争议管辖
-
-本政策之订立、生效、解释、修订、补充、终止、执行与争议解决均适用中华人民共和国大陆地区法律。如法律无相关规定的，参照商业惯例及/或行业惯例。
-您因使用QuickLaunch服务所产生及与QuickLaunch服务有关的争议，由QuickLaunch与您协商解决。协商不成时，任何一方均可向法院提起诉讼。
-
-
-12.联系我们
-
-当您有个人信息相关问题或其他的投诉、建议等，可以通过如下方式与我们联系，我们将尽快审核所涉及内容，并于15个工作日内对于您的问题、投诉、建议进行回复:
-
-邮箱： zangqilong@gmail.com
+Email: zangqilong@gmail.com

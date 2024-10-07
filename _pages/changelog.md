@@ -1,20 +1,20 @@
 ---
 layout: page
-title: 更新日志
+title: Update History
 include_in_header: false
 ---
 
 # Changelog
-QuickLaunch 版本发布历史
+OneClick Release history
 
 <br>
 
 ### `Latest`
 # **Version 1.0**
-QuickLaunch 第一个正式版本
+OneClick first release 
 
 #### What's New
-- 提供各种有用的prompt和直接和 ChatGPT 沟通的能力
+- Support 6 orientation detection and operate different actions.
 
 #### Bug Fixes
 - 暂无
