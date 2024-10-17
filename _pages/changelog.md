@@ -5,13 +5,13 @@ include_in_header: false
 ---
 
 # Changelog
-OneClick Release history
+SnapAction Release history
 
 <br>
 
 ### `Latest`
 # **Version 1.0**
-OneClick first release 
+SnapAction first release 
 
 #### What's New
 - Support 6 orientation detection and operate different actions.
